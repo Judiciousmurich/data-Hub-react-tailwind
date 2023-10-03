@@ -3,6 +3,7 @@ import Analytics from "./components/Analytics"
 import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
+import Cards from "./components/Cards"
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
         <Hero/>
         <Analytics/>
         <Newsletter/>
+        <Cards/>
         <Footer/>
       
       </div>
